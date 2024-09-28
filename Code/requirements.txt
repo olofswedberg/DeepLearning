@@ -1,0 +1,6 @@
+torchinfo
+tensorflow
+keras
+openpyxl
+pandas
+xgboost
